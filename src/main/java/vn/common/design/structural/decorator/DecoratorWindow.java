@@ -1,7 +1,7 @@
 /**
  * 
  */
-package vn.common.design.behavior.decorator;
+package vn.common.design.structural.decorator;
 
 /**
  *

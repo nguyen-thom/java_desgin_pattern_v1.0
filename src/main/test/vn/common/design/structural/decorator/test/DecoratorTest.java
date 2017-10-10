@@ -1,15 +1,15 @@
 /**
  * 
  */
-package vn.common.design.behavior.decorator.test;
+package vn.common.design.structural.decorator.test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import vn.common.design.behavior.decorator.Window;
-import vn.common.design.behavior.decorator.SimpleWindow;
-import vn.common.design.behavior.decorator.SquareBorderWindow;
+import vn.common.design.structural.decorator.SimpleWindow;
+import vn.common.design.structural.decorator.SquareBorderWindow;
+import vn.common.design.structural.decorator.Window;
 
 /**
  *

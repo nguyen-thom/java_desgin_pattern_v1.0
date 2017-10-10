@@ -1,4 +1,4 @@
-package vn.common.design.behavior.decorator;
+package vn.common.design.structural.decorator;
 /**
  * interface for window.
  * @author nguyen.thom
